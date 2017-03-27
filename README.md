@@ -11,3 +11,5 @@ TODO: Scrape other websites/facebook for data
 | Iflix | - | Full Stack developers, mostly nodejs |-|
 | Myfave | - | Elixir, PHP, nodejs + ReactJS(with mobx) |-|
 | Tuxuri | - | Golang |-|
+| SEEKAsia | - | Golang |-|
+| Acronis | - | Golang |-|
